@@ -24,11 +24,11 @@ class Directory extends React.Component {
           linkUrl: "popular",
         },
         {
-          title: "cheap",
+          title: "discount",
           imageUrl:
             "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/vgku2dk60hh1zgnnr4o1/tanjun-big-kids-shoe-tmF5j2.jpg",
           id: 3,
-          linkUrl: "cheap",
+          linkUrl: "discount",
         },
         {
           title: "womens",
