@@ -6,6 +6,11 @@
     align-items: center;
     position: relative;
 
+    // Proveriti detaljno naknadno nakon mobile optimizacije
+    :not(:last-child) {
+        padding-right: 3vw;
+    }
+
     .image {
         width: 100%;
         height: 95%;
